@@ -1,0 +1,61 @@
+body{background:#CCC}
+
+/*banner*/
+.banner{height:100px;background:#fff}
+.banner img{float:left;height:100px;}
+.banner h1{float:left;line-height:100px;height:100px;font-size:40px;color:#999;margin-left:10px;}
+
+/*head*/
+.navi{height:50px;}
+.sort{margin:10px auto 0;padding-left:1px;}
+.sort>li{float:left;width:331px;background:#FFF;border:1px solid #999;border-radius:10px;}
+.sort>li a{font-size:20px;font-weight:bold;line-height:50px;color:#666;text-align:center;display:block;}
+.deNav{clear:both;position:absolute;}
+.fir{top:162px;display:none}
+.sec{top:162px;margin-left:333px;display:none}
+.thr{top:162px;margin-left:666px;display:none}
+.deNav li{clear:both;height:30px;width:331px;background:#fff;border:1px solid #999;border-radius:4px;}
+.deNav li a{line-height:30px;color:#666;text-align:center;display:block;}
+
+/*body*/
+.content{padding-top:10px;width:1000px;margin:0 auto;}
+.cr, .cl{float:left;background:#FFF}
+
+.cl{width:600px;height:480px;padding-top:20px;border:2px solid #999;border-radius:4px;}
+.cl iframe{margin:40px 0 0 20px;}
+.cr{width:382px;height:500px;border:2px solid #999;border-radius:4px;margin-left:10px;}
+.sample{width:330px;height:110px;border-bottom:1px solid #ccc;margin:10px 0 0 10px;}
+.sample a{display:block;}
+.sample a img{float:left;width:120px;height:90px;}
+.sample a span{float:left;width:200px;font-family:Arial, Helvetica, sans-serif;font-size:12px;font-weight:bold;line-height:50px;color:#666;margin-left:5px;}
+.sample a span:hover{color:#06F}
+
+/*Update*/
+.news{border:2px solid #999;border-radius:4px;background:#FFF}
+.news h2{line-height:50px;font-size:25px;text-indent:1em;color:#666}
+.news li{width:980px;border-bottom:1px dashed #CCC;margin-left:10px}
+.inV{padding:10px 0 10px 210px;display:none;}
+.news li a{line-height:60px;color:#666;font-size:15px;}
+
+/*footer*/
+footer{height:100px;background:#fff;padding-top:10px;border:2px solid #999;border-radius:4px;}
+.bt li{float:left;width:333px;font-size:20px;line-height:20px;font-family:Arial, Helvetica, sans-serif;color:#666;text-align:center;}
+.bt li a{font-size:20px;line-height:20px;font-family:Arial, Helvetica, sans-serif;color:#666}
+.contact li{font-size:12px;line-height:25px;text-align:left;margin-left:115px;}
+
+/*bemani*/
+.classli{height:330px;border:2px solid #999;border-radius:5px;background:#fff;}
+.classli h2{fontsize:25px;line-height:50px;color:#30C;text-indent:1em;}
+.classli li{float:left;width:240px;height:240px;border:1px solid #ccc;margin-left:6px;border-radius:2px;}
+.classli li a img{width:200px;height:200px;margin:10px 0 0 20px;}
+.classli li a span{line-height:20px;font-size:15px;width:240px;display:block;text-align:center;color:#333}
+.low{height:100px;}
+
+/*player*/
+.player{height:800px;border:1px solid #999;border-radius:3px;background:#fff}
+.player h2{font-size:25px;line-height:25px;text-indent:1em;font-family:Arial, Helvetica, sans-serif;color:#999;margin-top:10px;}
+.player iframe{margin:60px 0 0 80px;}
+.comment{height:150px;border:1px solid #999;border-radius:3px;background:#fff}
+.comment span{width:900px;display:block;padding:20px 0 0 20px;}
+.comcon{width:300px;height:70px;}
+.comment button{margin:-30px 0 50px 400px;}
